@@ -1,0 +1,40 @@
+#forecast
+{
+    font-family: sans-serif;
+    width: 80%;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+}
+#forecast th, #forecast td{
+    border: 1px solid rgb(212, 204, 204) ;
+    padding: 10px;
+}
+#forecast th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:rgb(230, 229, 229);
+    color: black;
+}
+#forecast tr:nth-child(even){
+    background-color: rgb(243, 243, 243);
+}
+
+span{
+    font-size:30px;
+}
+.tbl{
+    background-color: 	#F0F0F0;
+    
+}
+#text{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body h2{
+   margin-left: 4%;
+    
+}
